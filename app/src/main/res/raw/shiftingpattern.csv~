@@ -1,0 +1,13 @@
+house.png,3
+photo1.png,1
+house2.png,4
+
+[{
+    image:"house.png",
+    timeout: 3
+},
+{
+     image:"house.png",
+       timeout: 3
+}
+]

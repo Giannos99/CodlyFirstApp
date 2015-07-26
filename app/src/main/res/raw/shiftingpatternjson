@@ -1,0 +1,10 @@
+
+[{
+    image:"house.png",
+    timeout: 3
+},
+{
+     image:"house.png",
+       timeout: 3
+}
+]

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CodlyFirstApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="marquee">START | lunch 20.00 | Dinner 60.00 | Travel 60.00 | Doctor 5000.00 |
+        lunch 20.00 | Dinner 60.00 | Travel 60.00 | Doctor 5000.00 | END</string>
+    <string name="timerVal">00:00:00</string>
+</resources>
